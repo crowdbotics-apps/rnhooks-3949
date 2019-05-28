@@ -1,0 +1,3 @@
+rootProject.name = 'rnhooks_3949'
+
+include ':app'
